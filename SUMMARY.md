@@ -9,7 +9,7 @@
    * [Step 03](session00/lab/md/step03.md)
    * [Exercises](session00/lab/md/exercises.md)
 * [Lab 02: DVD App Version 1.0](lab_02.md)
-*  * [Objectives](session01/lab/md/objectives.md)
+   * [Objectives](session01/lab/md/objectives.md)
    * [Step 01](session01/lab/md/step01.md)
    * [Step 02](session01/lab/md/step02.md)
    * [Step 03](session01/lab/md/step03.md)
