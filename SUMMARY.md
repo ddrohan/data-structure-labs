@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-   * Lab 02: DVD App Version 1.0
+   * [Lab 02: DVD App Version 1.0](lab_02.md)
 * [Lab 01: 'Hello World'](lab_01.md)
    * [Objectives](session0/lab/md/objectives.md)
    * [Step 01](session0/lab/md/step01.md)
