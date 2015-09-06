@@ -1,5 +1,10 @@
 # Summary
 
 * [Introduction](README.md)
-* Lab 01: 'Hello World'
+* [Lab 01: 'Hello World'](lab_01.md)
+   * [Objectives](session0/lab/md/objectives.md)
+   * [Step 01](session0/lab/md/step01.md)
+   * [Step 02](session0/lab/md/step02.md)
+   * [Step 03](session0/lab/md/step03.md)
+   * [Exercises](session0/lab/md/exercises.md)
 
