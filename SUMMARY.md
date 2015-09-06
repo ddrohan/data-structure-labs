@@ -16,4 +16,11 @@
    * [Step 04](session01/lab/md/step04.md)
    * [Step 05](session01/lab/md/step05.md)
    * [Solution](session01/lab/md/solution.md)
+* [Lab 03: DVD App Version 2.0](lab_03.md)
+   * [Objectives](session02/lab/md/objectives.md)
+   * [Step 01](session02/lab/md/step01.md)
+   * [Step 02](session02/lab/md/step02.md)
+   * [Step 03](session02/lab/md/step03.md)
+   * [Step 04](session02/lab/md/step04.md)
+   * [Solution](session02/lab/md/solution.md)
 
