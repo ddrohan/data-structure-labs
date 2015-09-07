@@ -1,7 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-   * [Lab 05: DVD App Version 3.0](lab_05.md)
 * [Lab 01: 'Hello World'](lab_01.md)
    * [Objectives](session00/lab/md/objectives.md)
    * [Step 01](session00/lab/md/step01.md)
@@ -30,4 +29,12 @@
    * [Step 03](session03/lab/md/step03.md)
    * [Step 04](session03/lab/md/step04.md)
    * [Solution](session03/lab/md/solution.md)
+* [Lab 05: DVD App Version 3.0](lab_05.md)
+   * [Objectives](session01/lab/md/objectives.md)
+   * [Step 01](session01/lab/md/step01.md)
+   * [Step 02](session01/lab/md/step02.md)
+   * [Step 03](session01/lab/md/step03.md)
+   * [Step 04](session01/lab/md/step04.md)
+   * [Step 05](session01/lab/md/step05.md)
+   * [Solution](session01/lab/md/solution.md)
 
