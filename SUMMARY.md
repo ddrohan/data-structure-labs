@@ -29,5 +29,4 @@
    * [Step 03](session02/lab/md/step03.md)
    * [Step 04](session02/lab/md/step04.md)
    * [Solution](session02/lab/md/solution.md)
-* 
 
