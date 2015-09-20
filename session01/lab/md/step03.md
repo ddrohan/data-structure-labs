@@ -53,7 +53,7 @@ int response = JOptionPane.showConfirmDialog(null,message,"DVD Data Entry",JOpti
 JOptionPane.QUESTION_MESSAGE ,anIcon);
 
     if(response == JOptionPane.CANCEL_OPTION)
-    ;
+    ; // Do Nothing
     else
     {
     try {
