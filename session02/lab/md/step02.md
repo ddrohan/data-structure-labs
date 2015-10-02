@@ -60,7 +60,7 @@ public static void main( String args[] )
                      break;
             case 2 : manager.menuPlayDevice();
                      break;
-            case 3 : manager.menuListDevicess();
+            case 3 : manager.menuListDevices();
                      break; 
             case 4 : break; 
             default : break;
