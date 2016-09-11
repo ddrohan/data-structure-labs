@@ -1,6 +1,6 @@
 # Introduction to Data Structures
 
-![](dsapp.jpg)
+![](cover.jpg)
 
 This is where you can find all the labs for **Data Structures**.
  
